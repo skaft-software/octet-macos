@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/skaft-software/octet",
+  "revision": "6b0717548d420909b3ee991bf940011e578b12eb",
+  "source_path": "apps/macos",
+  "status": "staged-source-snapshot",
+  "files": [
+    {
+      "path": "Package.swift",
+      "source_path": "apps/macos/Package.swift",
+      "mode": "100644",
+      "sha256": "0b99a33476d4c721db9af6a96fba08eb63bc4f8480cc314652d6aa3bf64aa7c4"
+    },
+    {
+      "path": "README.md",
+      "source_path": "apps/macos/README.md",
+      "mode": "100644",
+      "sha256": "1bb4751dcb75fb0026acb9da633624c6c1389b096e77f2a489e7192e6976d83b"
+    },
+    {
+      "path": "Resources/OctetMacOS.entitlements",
+      "source_path": "apps/macos/Resources/OctetMacOS.entitlements",
+      "mode": "100644",
+      "sha256": "6eadfd217ae0c1b9df0b5c742cc6b10b49b5c76d2f163ecde0fec45d88b55274"
+    },
+    {
+      "path": "Sources/OctetMacOS/AppModel.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/AppModel.swift",
+      "mode": "100644",
+      "sha256": "b6ce89194ec6c54c86795a5a77cb763840ebaf9a8203d6538b0917520c7a5918"
+    },
+    {
+      "path": "Sources/OctetMacOS/AppPolicies.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/AppPolicies.swift",
+      "mode": "100644",
+      "sha256": "6a85c2148cec53780ff295a4270bbcbc1cd088b04cfaf20b73c085f0ffb36596"
+    },
+    {
+      "path": "Sources/OctetMacOS/MacOSClientFactory.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/MacOSClientFactory.swift",
+      "mode": "100644",
+      "sha256": "855c7b46d137ae036d461b706479288084e02ac965d731fa9c1635b22683d441"
+    },
+    {
+      "path": "Sources/OctetMacOS/NotificationCoordinator.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/NotificationCoordinator.swift",
+      "mode": "100644",
+      "sha256": "a84feb9d1e9a4cc15ac6785d101164c85c5a79e96640600af0670753aca8e1a5"
+    },
+    {
+      "path": "Sources/OctetMacOS/OctetMacOSApp.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/OctetMacOSApp.swift",
+      "mode": "100644",
+      "sha256": "ba45787a61369dec933e48db11a3dcb00f056bfecce977bd8ee449c2ed7c6b7d"
+    },
+    {
+      "path": "Sources/OctetMacOS/Resources/Info.plist",
+      "source_path": "apps/macos/Sources/OctetMacOS/Resources/Info.plist",
+      "mode": "100644",
+      "sha256": "2246ca4ee7fe62e72685259723ec2f4429f7ce3ae3666792cdb9065795f3e006"
+    },
+    {
+      "path": "Sources/OctetMacOS/Views/CreateSessionView.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/Views/CreateSessionView.swift",
+      "mode": "100644",
+      "sha256": "b1f5ed7848bccd56a3fc8ae8b6c9e8fc1513b36d174cab696a95fc87e9dfdc90"
+    },
+    {
+      "path": "Sources/OctetMacOS/Views/RootViews.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/Views/RootViews.swift",
+      "mode": "100644",
+      "sha256": "88c05a3a0ba0f0fd967dd9c664720fb3f9dd4433a5f59887b83746bf9ed18d1c"
+    },
+    {
+      "path": "Sources/OctetMacOS/Views/SessionDetailView.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/Views/SessionDetailView.swift",
+      "mode": "100644",
+      "sha256": "a478606ef7e86faa0d47c24c72e5cb567a7a92210a78cf5d452d0aeb7f4e126f"
+    },
+    {
+      "path": "Sources/OctetMacOS/Views/SidebarView.swift",
+      "source_path": "apps/macos/Sources/OctetMacOS/Views/SidebarView.swift",
+      "mode": "100644",
+      "sha256": "c3f2aceb9a7cdd8b099ca75c8e1abc9bbf4566960039d184e731236bdc30cf5d"
+    },
+    {
+      "path": "Tests/OctetMacOSTests/AppPoliciesTests.swift",
+      "source_path": "apps/macos/Tests/OctetMacOSTests/AppPoliciesTests.swift",
+      "mode": "100644",
+      "sha256": "800a70d1a4c374f5a1546ff44b15a7701046a98be4b395d811297612921c2fb1"
+    },
+    {
+      "path": "Tests/test_remove_guard.py",
+      "source_path": "apps/macos/Tests/test_remove_guard.py",
+      "mode": "100644",
+      "sha256": "a6093011da2ac2b7d1816121e0a704a6c9b0b9aadb0a49c8e76dd0ad6e533019"
+    },
+    {
+      "path": "scripts/build-app.sh",
+      "source_path": "apps/macos/scripts/build-app.sh",
+      "mode": "100644",
+      "sha256": "24019db9081d795957ea6bc0b765c25213d92c42dfadcfb71b787dc225941bbc"
+    },
+    {
+      "path": "scripts/install.sh",
+      "source_path": "apps/macos/scripts/install.sh",
+      "mode": "100644",
+      "sha256": "266875748fa2f965cdd1774e56ca03f1007c4798c9b6dadbe5c841a5444e46ca"
+    },
+    {
+      "path": "scripts/make-dmg.sh",
+      "source_path": "apps/macos/scripts/make-dmg.sh",
+      "mode": "100644",
+      "sha256": "98355361a9bc5eccff95c01f5a7a309068af1c017f68b4e59f5495d8af5d2af4"
+    },
+    {
+      "path": "scripts/notarize-app.sh",
+      "source_path": "apps/macos/scripts/notarize-app.sh",
+      "mode": "100644",
+      "sha256": "4f4837ec7cccdb4dbd0ba70ffac827d53184abb2f20f1c978e9484de0eedcd14"
+    },
+    {
+      "path": "scripts/remove.sh",
+      "source_path": "apps/macos/scripts/remove.sh",
+      "mode": "100644",
+      "sha256": "26fd749843263608cb5cc7576a7936974d8a26d7fae09add02933f115949376c"
+    },
+    {
+      "path": "scripts/sign-app.sh",
+      "source_path": "apps/macos/scripts/sign-app.sh",
+      "mode": "100644",
+      "sha256": "4116c8df53320614853cbfd4fcb05579b18269873cd31ffe6a14024bb3ade512"
+    },
+    {
+      "path": "scripts/update.sh",
+      "source_path": "apps/macos/scripts/update.sh",
+      "mode": "100644",
+      "sha256": "7c6fd85d3f35de31855cbad8e9145b46aa5121422251d72d3ce987fe1a927aae"
+    },
+    {
+      "path": "update-manifest.example.json",
+      "source_path": "apps/macos/update-manifest.example.json",
+      "mode": "100644",
+      "sha256": "45671e95333544eb46e88888c792e65a0202ff25227e5235b15c60b38477f615"
+    }
+  ]
+}
